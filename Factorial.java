@@ -5,6 +5,7 @@ public class Factorial {
         int fact=1;
 
         Scanner sc=new Scanner(System.in);
+
         int input=sc.nextInt();
         int i;
         for ( i=1; i<=input; i++){
